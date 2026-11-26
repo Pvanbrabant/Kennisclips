@@ -35,7 +35,8 @@
     "stills": "tsx scripts/stills.ts",
     "render": "tsx scripts/render.ts",
     "lint": "eslint src scripts && tsc",
-    "upgrade": "remotion upgrade"
+    "upgrade": "remotion upgrade",
+    "storyboard-md": "tsx scripts/storyboard-md.ts"
   },
   "allowScripts": {
     "esbuild": false
