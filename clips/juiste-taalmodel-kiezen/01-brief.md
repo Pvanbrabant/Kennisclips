@@ -15,7 +15,9 @@ Veel collega's weten niet dat je in de meeste AI-tools kunt kiezen tussen modell
 Na het bekijken van de clip kan de kijker…
 1. uitleggen dat een AI-tool meerdere taalmodellen of modi aanbiedt, en dat die verschillen in snelheid, redeneervermogen en kost of verbruik;
 2. voor een taak inschatten of een snel model volstaat of een redeneermodel (denkmodus) nodig is;
-3. de modelkeuze terugvinden in de tools die hij of zij gebruikt (Copilot, ChatGPT, Claude, Gemini, Perplexity).
+3. weten waar je die keuze zoekt in de eigen AI-tool (bij de modelnaam of in het model- of modusmenu), zonder dat de clip menulabels of versienummers per tool noemt.
+
+> Bijgestuurd na de review van fase 2 (2026-11-26): de menulabels van ChatGPT, Gemini, Perplexity en deels Copilot waren vanuit de werkomgeving niet officieel te verifiëren en wijzigen snel. De clip blijft daarom merkneutraal op labelniveau.
 
 ## Kernboodschap
 Kies je model zoals je gereedschap: snel voor eenvoudige taken, grondig voor complexe taken. Zo werk je zowel effectief als efficiënt.
