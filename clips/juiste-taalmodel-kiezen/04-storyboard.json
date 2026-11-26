@@ -1,0 +1,155 @@
+{
+  "slug": "juiste-taalmodel-kiezen",
+  "titel": "Het juiste taalmodel kiezen",
+  "scenes": [
+    {
+      "type": "titel",
+      "titel": "Het juiste taalmodel kiezen",
+      "ondertitel": "Sneller en beter werken met AI-tools",
+      "notitie": "Rustige opener op UCLL-huisstijl. Geen logo's van AI-tools."
+    },
+    {
+      "type": "vraag",
+      "vraag": "Waarom wacht je soms lang op een simpel antwoord?",
+      "context": "En waarom krijg je op een moeilijke vraag soms een oppervlakkig antwoord?",
+      "notitie": "Twee omgekeerde ervaringen; laat de context iets later in beeld verschijnen.",
+      "duur": 12
+    },
+    {
+      "type": "opsomming",
+      "titel": "Wat de meesten doen",
+      "punten": [
+        "De standaardinstelling laten staan",
+        "Niet weten dat je kunt kiezen",
+        "Antwoorden die te oppervlakkig of onnodig traag zijn"
+      ]
+    },
+    {
+      "type": "citaat",
+      "citaat": "Voor alledaagse taken volstaan de standaardinstellingen. Voor complexe taken verhoog je de inspanning of zet je denken aan.",
+      "bron": "Anthropic (z.j.), vrij vertaald.",
+      "notitie": "Bron duidelijk in beeld, inclusief 'vrij vertaald'. Geen schermafbeelding van de tool.",
+      "duur": 14
+    },
+    {
+      "type": "kernbegrip",
+      "begrip": "Meerdere versnellingen",
+      "uitleg": "Een AI-tool biedt vaak meerdere modellen of modi. Ze verschillen in snelheid, denkvermogen en verbruik."
+    },
+    {
+      "type": "vergelijking",
+      "titel": "Snel of denkend?",
+      "links": {
+        "kop": "Snel model",
+        "punten": [
+          "Antwoordt meteen",
+          "Verbruikt weinig",
+          "Past bij routinetaken"
+        ]
+      },
+      "rechts": {
+        "kop": "Denkmodus",
+        "punten": [
+          "Redeneert eerst",
+          "Werkt trager",
+          "Verbruikt meer",
+          "Past bij complexe taken"
+        ]
+      },
+      "duur": 15
+    },
+    {
+      "type": "kernbegrip",
+      "begrip": "Auto",
+      "uitleg": "De tool kiest zelf tussen snel en diep. Een goed vertrekpunt, maar niet altijd perfect."
+    },
+    {
+      "type": "vergelijking",
+      "titel": "Twee misvattingen",
+      "links": {
+        "kop": "Misvatting",
+        "punten": [
+          "Zwaarst is altijd best",
+          "Denken is gratis"
+        ]
+      },
+      "rechts": {
+        "kop": "Realiteit",
+        "punten": [
+          "Weinig winst bij simpele taken",
+          "Kost tijd en gebruiksruimte"
+        ]
+      },
+      "notitie": "Links en rechts visueel koppelen, rij per rij.",
+      "duur": 14
+    },
+    {
+      "type": "stappen",
+      "titel": "Zo kies je",
+      "stappen": [
+        "Start met Auto of snel",
+        "Complex of foutgevoelig? Kies denkend",
+        "Rapport met bronnen? Onderzoeksmodus, indien beschikbaar",
+        "Te oppervlakkig of traag? Stuur bij"
+      ],
+      "duur": 18
+    },
+    {
+      "type": "voorbeeld",
+      "titel": "Bijvoorbeeld: snel",
+      "tekst": "Een mail aan studenten beleefder formuleren. Een snel model of Auto volstaat meestal.",
+      "notitie": "Icoon van een mail. Voorbeeld is een suggestie, geen regel."
+    },
+    {
+      "type": "voorbeeld",
+      "titel": "Bijvoorbeeld: denkend",
+      "tekst": "De scoringssleutel van een toets nakijken op rekenfouten en inconsistenties. Een fout is duur, dus wacht gerust iets langer.",
+      "notitie": "Contrast met vorige scène: beide zijn alledaags, maar de gevolgen van een fout verschillen."
+    },
+    {
+      "type": "voorbeeld",
+      "titel": "Bijvoorbeeld: onderzoek",
+      "tekst": "Een literatuuroverzicht voor een nieuw opleidingsonderdeel. Een onderzoeksmodus kan helpen. Controleer de bronnen zelf.",
+      "notitie": "Onderzoeksmodus niet in elke tool of licentie beschikbaar; vandaar 'kan helpen'."
+    },
+    {
+      "type": "opsomming",
+      "titel": "Waar zit de keuze?",
+      "punten": [
+        "Bij de modelnaam of in een menu",
+        "Naam en plaats verschillen",
+        "Je licentie bepaalt wat je ziet",
+        "Probeer het uit"
+      ],
+      "notitie": "Merkneutraal: geen menulabels, geen screenshots. Eventueel generiek schetsvenster met een uitklapmenu.",
+      "duur": 15
+    },
+    {
+      "type": "samenvatting",
+      "punten": [
+        "Je kunt kiezen tussen modellen of modi",
+        "Snel voor routine, denkend voor complex werk",
+        "Start met Auto en stuur zelf bij"
+      ],
+      "duur": 13
+    },
+    {
+      "type": "reflectie",
+      "vraag": "Welke taak met AI doe je deze week die een ander model of een andere modus verdient? Wat verwacht je daarvan?",
+      "duur": 15,
+      "notitie": "Laat deze scène bewust iets langer staan."
+    },
+    {
+      "type": "bronnen",
+      "bronnen": [
+        "Anthropic (z.j.). Change the model, effort, and thinking settings. Claude Help Center.",
+        "Anthropic (z.j.). Effort. Claude Docs.",
+        "Anthropic (z.j.). Understanding usage and length limits. Claude Help Center.",
+        "Anthropic (z.j.). Steering thinking. Claude Docs.",
+        "Microsoft (2025). Available today: GPT-5 in Microsoft 365 Copilot. Microsoft Copilot Blog.",
+        "Microsoft (2025). Researcher and Analyst are now generally available in Microsoft 365 Copilot. Microsoft 365 Blog."
+      ],
+      "duur": 8
+    }
+  ]
+}
