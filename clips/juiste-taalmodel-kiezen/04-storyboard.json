@@ -5,7 +5,7 @@
     {
       "type": "titel",
       "titel": "Het juiste taalmodel kiezen",
-      "ondertitel": "Sneller en beter werken met AI-tools",
+      "ondertitel": "Sneller en beter werken met AI",
       "notitie": "Rustige opener in UCLL-huisstijl. Geen logo's van AI-tools."
     },
     {
@@ -82,8 +82,8 @@
       "rechts": {
         "kop": "Realiteit",
         "punten": [
-          "Bij simpele taken win je weinig",
-          "Denken telt mee voor je gebruikslimiet"
+          "Weinig winst bij simpele taken",
+          "Telt mee voor je gebruikslimiet"
         ]
       },
       "duur": 12,
@@ -102,21 +102,21 @@
     },
     {
       "type": "voorbeeld",
-      "titel": "Bijvoorbeeld: snelle stand",
+      "titel": "Snelle stand",
       "tekst": "Een mail aan studenten beleefder formuleren. De snelle stand of Auto volstaat meestal.",
       "duur": 9,
       "notitie": "Voorbeeld is een suggestie, geen regel."
     },
     {
       "type": "voorbeeld",
-      "titel": "Bijvoorbeeld: denkstand",
+      "titel": "Denkstand",
       "tekst": "De verbetersleutel van een toets nakijken op rekenfouten en inconsistenties. Een fout kost je veel, dus wacht gerust iets langer.",
       "duur": 11,
       "notitie": "Contrast met vorige scène: beide zijn alledaags, maar de gevolgen van een fout verschillen."
     },
     {
       "type": "voorbeeld",
-      "titel": "Bijvoorbeeld: onderzoeksstand",
+      "titel": "Onderzoeksstand",
       "tekst": "Een literatuuroverzicht voor een nieuw opleidingsonderdeel. Een onderzoeksstand kan helpen. Controleer de bronnen zelf.",
       "duur": 9
     },
