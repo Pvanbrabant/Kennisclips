@@ -1,6 +1,6 @@
 # Productie en feedback: juiste-taalmodel-kiezen
 
-> Status: concept
+> Status: goedgekeurd (2026-11-26) — door de regisseur na review, gebruiker offline
 
 ## Previews
 Stills: `out/juiste-taalmodel-kiezen/stills/` (18 stuks, `01-titel.png` t/m `18-bronnen.png`), gemaakt met `npm run stills -- juiste-taalmodel-kiezen`.
@@ -34,3 +34,11 @@ Geen. `npm run lint` is dus niet opnieuw nodig geweest.
 ### Ronde 1
 
 ## Bevindingen van de reviewer
+
+## Verwerkt na de review (regisseur, 2026-11-26)
+- Reflectiescène: label "Denk even na" in wit i.p.v. lichtblauw (huisstijl: lichtblauw is geen tekstkleur). Wijziging aan het fabriekje (`src/scenes/ReflectieScene.tsx`).
+- Vergelijkingsscènes: kaarten even hoog (`alignItems: "stretch"` in `src/scenes/VergelijkingScene.tsx`). Wijziging aan het fabriekje.
+- "Auto" vervangen door "automatische stand" (merkneutraal).
+- Citaat: bron vermeldt "ingekort en vrij vertaald".
+- Scène 8: "biedt deze stand aan"; scène 10: titel "Zo kies je de juiste stand"; reflectievraag ingekort.
+- Bronnenscène: 12 s; "Understanding usage and length limits" vervangt "Effort" (onderbouwt de gebruikslimiet).

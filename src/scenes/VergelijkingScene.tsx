@@ -42,7 +42,7 @@ const KolomKaart: React.FC<{ kolom: Kolom; vul: string; delay: number }> = ({ ko
 export const VergelijkingScene: React.FC<{ scene: Extract<Scene, { type: "vergelijking" }> }> = ({ scene }) => (
   <Frame>
     <Heading>{scene.titel}</Heading>
-    <div style={{ display: "flex", gap: 56, alignItems: "flex-start" }}>
+    <div style={{ display: "flex", gap: 56, alignItems: "stretch" }}>
       <KolomKaart kolom={scene.links} vul={colors.yellow} delay={0.8} />
       <KolomKaart kolom={scene.rechts} vul={colors.sky} delay={0.8 + (scene.links.punten.length + 1) * STAGGER} />
     </div>
