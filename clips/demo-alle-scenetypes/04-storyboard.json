@@ -1,0 +1,17 @@
+{
+  "slug": "demo-alle-scenetypes",
+  "titel": "Demo: alle scènetypes",
+  "scenes": [
+    { "type": "titel", "titel": "Feedback die werkt", "ondertitel": "Een kennisclip voor docenten" },
+    { "type": "vraag", "vraag": "Waarom lezen studenten jouw feedback niet?", "context": "Je schrijft uitgebreide commentaren, maar ze verdwijnen ongelezen." },
+    { "type": "kernbegrip", "begrip": "Feed forward", "uitleg": "Feedback die vooruitkijkt: wat kan de student de volgende keer concreet anders doen?" },
+    { "type": "opsomming", "titel": "Drie kenmerken van sterke feedback", "punten": ["Tijdig: terwijl de taak nog loopt", "Specifiek: gekoppeld aan criteria", "Haalbaar: één of twee werkpunten"] },
+    { "type": "vergelijking", "titel": "Feedback of cijfer?", "links": { "kop": "Enkel een cijfer", "punten": ["Student kijkt naar het resultaat", "Leren stopt"] }, "rechts": { "kop": "Feedback eerst", "punten": ["Student kijkt naar het werk", "Leren gaat door"] } },
+    { "type": "stappen", "titel": "Zo pak je het aan", "stappen": ["Deel de criteria vooraf", "Geef feedback op een tussenversie", "Laat studenten een werkpunt kiezen"] },
+    { "type": "citaat", "citaat": "Feedback is pas feedback als de ontvanger er iets mee doet.", "bron": "Vrij naar Dylan Wiliam" },
+    { "type": "voorbeeld", "titel": "Een opdracht in het eerste jaar", "tekst": "Studenten krijgen in week 4 feedback op hun inleiding en passen die toe in de eindversie." },
+    { "type": "samenvatting", "punten": ["Kijk vooruit, niet enkel terug", "Geef feedback vóór het cijfer", "Beperk je tot wat haalbaar is"] },
+    { "type": "reflectie", "vraag": "Welke opdracht kan jij dit semester voorzien van een feedbackmoment?" },
+    { "type": "bronnen", "bronnen": ["Demotekst: dit storyboard toont enkel de scènetypes en is geen inhoudelijke bron."] }
+  ]
+}
